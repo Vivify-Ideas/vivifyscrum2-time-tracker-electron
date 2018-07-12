@@ -8,5 +8,10 @@
     "update": "https://github.com/Vivify-Ideas/vivifyscrum2-time-tracker-electron/releases/download/linux-x64-prod-v1.0.0/vivifyscrum-time-tracker-1.0.0-x86_64.AppImage",
     "install": "https://github.com/Vivify-Ideas/vivifyscrum2-time-tracker-electron/releases/download/linux-x64-prod-v1.0.0/vivifyscrum-time-tracker-1.0.0-x86_64.AppImage",
     "version": "1.0.0"
+  },
+  "win32-ia32-prod": {
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-time-tracker-electron/releases/download/win32-ia32-prod-v1.0.0",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-time-tracker-electron/releases/download/win32-ia32-prod-v1.0.0/vivifyscrum-time-tracker.Setup.1.0.0.exe",
+    "version": "1.0.0"
   }
 }
